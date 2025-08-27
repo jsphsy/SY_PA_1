@@ -20,16 +20,19 @@ Example: emotify("Make me smile") -> "Make me :)"
 Task: Unpack a list into three variables: first, middle, last, with middle containing everything between the first and last element. Then print all three variables.
 
 Example: list = [1, 2, 3, 4, 5, 6]
+
 Output:
 first: 1
 middle: [2, 3, 4, 5]
 last: 6
+
 
 Implementation:
 The solutions are implemented in a Jupyter Notebook file (.ipynb) conatining:
 1) Function definitions for each problems
 2) Test cases with expected outputs
 3) Clear documentation and comments
+
 
 Learning Outcomes:
 Through these exercises, you will:
