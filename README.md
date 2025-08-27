@@ -4,6 +4,7 @@ This repository contains solutions to three Python programming exercises as part
 EXERCISES:
 1) Alphabet Soup Problem
 Task: Create a function that takes a string with its letters in alphabetical order.
+
 Example: alphabet_soup("hello") -> "ehllo"
 
 3) Emoticon Problem
@@ -12,10 +13,12 @@ Smile -> :)
 Grin -> :D
 Sad -> :(
 Mad -> >:(
+
 Example: emotify("Make me smile") -> "Make me :)"
 
-4) Unpacking List Problem
+5) Unpacking List Problem
 Task: Unpack a list into three variables: first, middle, last, with middle containing everything between the first and last element. Then print all three variables.
+
 Example: list = [1, 2, 3, 4, 5, 6]
 Output:
 first: 1
