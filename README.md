@@ -22,10 +22,7 @@ Task: Unpack a list into three variables: first, middle, last, with middle conta
 
 Example: list = [1, 2, 3, 4, 5, 6]
 
-Output:
-first: 1
-middle: [2, 3, 4, 5]
-last: 6
+Output: first: 1, middle: [2, 3, 4, 5], last: 6
 
 Implementation:
 The solutions are implemented in a Jupyter Notebook file (.ipynb) conatining:
