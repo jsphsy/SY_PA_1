@@ -27,11 +27,13 @@ middle: [2, 3, 4, 5]
 last: 6
 
 
+
 Implementation:
 The solutions are implemented in a Jupyter Notebook file (.ipynb) conatining:
 1) Function definitions for each problems
 2) Test cases with expected outputs
 3) Clear documentation and comments
+
 
 
 Learning Outcomes:
