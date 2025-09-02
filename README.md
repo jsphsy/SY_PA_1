@@ -8,7 +8,7 @@ Task: Create a function that takes a string with its letters in alphabetical ord
 
 Example: alphabet_soup("hello") -> "ehllo"
 
-3) Emoticon Problem
+2) Emoticon Problem
 Task: Create a function that changes specific words into emoticons. Given a sentence as a string, replace the words smile, grin, sad, and mad with their corresponding emoticon:
 Smile -> :)
 Grin -> :D
@@ -17,7 +17,7 @@ Mad -> >:(
 
 Example: emotify("Make me smile") -> "Make me :)"
 
-5) Unpacking List Problem
+3) Unpacking List Problem
 Task: Unpack a list into three variables: first, middle, last, with middle containing everything between the first and last element. Then print all three variables.
 
 Example: list = [1, 2, 3, 4, 5, 6]
