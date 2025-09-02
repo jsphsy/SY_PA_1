@@ -1,8 +1,8 @@
-Introduction to Python Programming: Experiment#1
+# Introduction to Python Programming: Experiment#1
 
 This repository contains solutions to three Python programming exercises as part of an Introductory Python Programming Experiment.
 
-EXERCISES:
+# EXERCISES:
 1) Alphabet Soup Problem
 Task: Create a function that takes a string with its letters in alphabetical order.
 
@@ -24,13 +24,13 @@ Example: list = [1, 2, 3, 4, 5, 6]
 
 Output: first: 1, middle: [2, 3, 4, 5], last: 6
 
-Implementation:
+# Implementation:
 The solutions are implemented in a Jupyter Notebook file (.ipynb) conatining:
 1) Function definitions for each problems
 2) Test cases with expected outputs
 3) Clear documentation and comments
 
-Learning Outcomes:
+# Learning Outcomes:
 Through these exercises, you will:
 - Identify basic codes and functions in Python Programming
 - Apply different codes and functions to create Python Programs
