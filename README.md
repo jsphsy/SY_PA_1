@@ -12,7 +12,7 @@ Example: alphabet_soup("hello") -> "ehllo"
 Task: Create a function that changes specific words into emoticons. Given a sentence as a string, replace the words smile, grin, sad, and mad with their corresponding emoticon:
 Smile -> :)
 Grin -> :D
-Sad -> :(
+Sad -> :((
 Mad -> >:(
 
 Example: emotify("Make me smile") -> "Make me :)"
